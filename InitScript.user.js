@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PP Bot
-// @version      0.1
+// @version      1.0
 // @description  Have fun
 // @author       Darkness
 // @include      *://pixelplanet.fun/*

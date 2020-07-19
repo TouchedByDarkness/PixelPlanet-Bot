@@ -1,6 +1,6 @@
 Bot for pixelplanet.fun
 
-**Installation**
+**Installation**<br/>
 1. [Download Tampermonkey Stable](https://www.tampermonkey.net)
 2. [Install bot](https://github.com/TouchedByDarkness/PixelPlanet-Bot/raw/master/InitScript.user.js)
 

@@ -32,5 +32,5 @@ Bot for pixelplanet.fun
  **Other**<br/>
   Also see my Void bot [here](https://github.com/TouchedByDarkness/PixelPlanet-Void-Bot)
    
-You can report bugs or suggest improvements.
+You can report bugs or suggest improvements.<br/>
 My discord - Darkness#7954

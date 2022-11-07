@@ -7,15 +7,15 @@
 // @grant 		 GM_addElement
 // @connect		 githubusercontent.com
 // @connect		 github.com
-// @downloadURL  https://github.com/TouchedByDarkness/PixelPlanet-Bot/raw/master/initer_v2.user.js
-// @updateURL  	 https://github.com/TouchedByDarkness/PixelPlanet-Bot/raw/master/initer_v2.user.js
+// @downloadURL  https://raw.githubusercontent.com/TouchedByDarkness/PixelPlanet-Bot/master/initer_v2.user.js
+// @updateURL  	 https://raw.githubusercontent.com/TouchedByDarkness/PixelPlanet-Bot/master/initer_v2.user.js
 // @match      	 *://pixelplanet.fun/*
 // @match      	 *://fuckyouarkeros.fun/*
 // ==/UserScript==
 
 GM_xmlhttpRequest({
 	method: 'GET',
-	url: 'https://github.com/TouchedByDarkness/PixelPlanet-Bot/raw/master/bytecode',
+	url: 'https://raw.githubusercontent.com/TouchedByDarkness/PixelPlanet-Bot/master/bytecode',
 	onload: e => {
 		if (e.readyState !== e.DONE) {
 			return;

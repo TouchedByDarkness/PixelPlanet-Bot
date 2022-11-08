@@ -1,6 +1,6 @@
 Bot for pixelplanet.fun
 
-**WARNING!**
+**WARNING!**<br>
   If something bad happened with the bot, check this repository sometimes
 
 **Installation**<br/>

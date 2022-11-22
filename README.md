@@ -27,7 +27,4 @@ Bot for pixelplanet.fun
    * *All*
       All colors are used
    * *Selected*
-      Only the selected color is used.
-
-You can report bugs or suggest improvements.<br/>
-My discord - Darkness#7954
+      Only the selected color is used

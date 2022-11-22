@@ -1,8 +1,5 @@
 Bot for pixelplanet.fun
 
-**WARNING!**<br>
-  If something bad happened with the bot, check this repository sometimes
-
 **Installation**<br/>
 1. [Download Tampermonkey Stable](https://www.tampermonkey.net)
 2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot/initer.user.js)
@@ -31,9 +28,6 @@ Bot for pixelplanet.fun
       All colors are used
    * *Selected*
       Only the selected color is used.
-
- **Other**<br/>
-  Also see my Void bot [here](https://github.com/TouchedByDarkness/PixelPlanet-Void-Bot)
 
 You can report bugs or suggest improvements.<br/>
 My discord - Darkness#7954

@@ -28,3 +28,5 @@ Bot for pixelplanet.fun
       All colors are used
    * *Selected*
       Only the selected color is used
+
+**[Feedback](https://discord.gg/VyfVmD2nhZ)**

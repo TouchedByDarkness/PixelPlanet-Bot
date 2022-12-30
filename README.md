@@ -29,4 +29,4 @@ Bot for pixelplanet.fun
    * *Selected*
       Only the selected color is used
 
-**[Feedback](https://discord.gg/VyfVmD2nhZ)**
+**[Tell me about suggestions or bugs](https://discord.gg/VyfVmD2nhZ)**

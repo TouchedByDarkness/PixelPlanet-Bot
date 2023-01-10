@@ -3,6 +3,7 @@ Bot for pixelplanet.fun
 **Installation**<br/>
 1. [Download Tampermonkey Stable](https://www.tampermonkey.net)
 2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot/initer.user.js)
+(2). or you can install [bot v2](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js) with more than 20 strategies and some new features, but also with more bugs
 
 **Usage**<br/>
   Choose coordinates and image.<br/>

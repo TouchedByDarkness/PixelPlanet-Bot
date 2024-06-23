@@ -1,0 +1,48 @@
+#void-bot {
+	background-color: black;
+	color: red;
+	padding: 3px;
+	position: absolute;
+	top: 2%;
+	right: 2%;
+	width: 40%;
+	font-weight: bold;
+}
+
+#void-bot input[type="checkbox"] button select {
+	cursor: pointer;
+}
+
+#void-bot input[type="number"] {
+	background-color: black;
+	color: red;
+	border-color: darkred;
+	width: 60px;
+}
+
+#void-bot select {
+	background-color: black;
+	color: red;
+	border-color: darkred;
+	font: inherit;
+}
+
+#void-bot button {
+	background-color: black;
+	color: red;
+	border-color: darkred;
+	font: inherit;
+	margin: 5px;
+}
+
+#void-bot .half {
+	width: calc(50% - 5px);
+	margin-left:5px;
+}
+
+#void-bot .color-box {
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	border: solid 1px darkred;
+}

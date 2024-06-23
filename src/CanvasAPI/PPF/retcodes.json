@@ -1,0 +1,16 @@
+{
+	"OK": 0,
+	"INVALID_CANVAS": 1,
+	"INVALID_X": 2,
+	"INVALID_Y": 3,
+	"INVALID_Z": 4,
+	"INVALID_COLOR": 5,
+	"NO_AUTH": 6,
+	"LOW_SCORE": 7,
+	"PROTECTION": 8,
+	"STACK_IS_FULL": 9,
+	"CAPTCHA": 10,
+	"PROXY": 11,
+	"TOP10": 12,
+	"PARALLEL_WS": 13
+}

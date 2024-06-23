@@ -1,0 +1,6 @@
+The author of the original version of the bot is Darkness from the Void faction.
+The bot was written for the purpose of fun, learning the code, and also to annoy the moderators (because they keep order, but Void loves CHAOS).
+However, I haven't been following the game for a long time, so I'm giving the source code free access for further development.
+I would like the modifications of the bot to be publicly available, but unfortunately I cannot control this or specify it in the license, so I just ask you to publish the modified versions of the bot for free access (of course if they can be useful to others).
+You can contact me via github (https://github.com/TouchedByDarkness).
+Maybe I'll be back. I still have a lot of ideas for new software, including bots and similar things.

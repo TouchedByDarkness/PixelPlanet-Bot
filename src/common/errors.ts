@@ -1,0 +1,10 @@
+export const errDisconnected = new Error('no connection');
+export const errNoTemplateSrc = new Error('need template source');
+export const errNoApi = new Error('no access to canvas api');
+export const errNoTempatePosition = new Error('need template position');
+export const errUndefinedCanvas = new Error('canvas undefined');
+export const errUndefinedStrategy = new Error('strategy undefined');
+export const errPromiseDeadline = new Error('promise deadline');
+export const errAborterTriggered = new Error('errAborterTriggered');
+export const errWrongDefaultStrategy = new Error('default strategy doesnt exists');
+export const errSeveralNoPlacePixelResult = new Error('errSeveralNoPlacePixelResult');

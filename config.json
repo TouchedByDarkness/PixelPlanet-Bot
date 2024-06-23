@@ -1,0 +1,6 @@
+{
+	"componentName": "dark-ppf-bot",
+	"rootFilename": "App.vue",
+	"devVueSource": "https://cdn.jsdelivr.net/npm/vue@2.7/dist/vue.js",
+	"prodVueSource": "https://cdn.jsdelivr.net/npm/vue@2.7"
+}

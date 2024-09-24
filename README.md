@@ -1,9 +1,5 @@
 Bot for pixelplanet.fun
 
-**ATTENTION**<br/>
-I am no longer engaged in the bot (at least I do not plan to do so in the near future).<br/>
-If you want to improve the bot, then everything is in your hands, the source code is in branches 2.1 and 2.2.
-
 **Installation**<br/>
 1. [Download Tampermonkey Stable](https://www.tampermonkey.net)
 2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot/initer.user.js)

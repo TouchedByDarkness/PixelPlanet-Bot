@@ -30,5 +30,5 @@ Bot for pixelplanet.fun
    * *Selected*
       Only the selected color is used
 
-**[Tell me about suggestions or bugs](https://discord.gg/VyfVmD2nhZ)**
+**[Tell me about suggestions or bugs](https://discord.gg/VyfVmD2nhZ)**<br/>
 **[You can also help me with your donation](https://boosty.to/touchedbydarkness)**

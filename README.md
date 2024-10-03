@@ -2,8 +2,7 @@ Bot for pixelplanet.fun
 
 **Installation**<br/>
 1. [Download Tampermonkey Stable](https://www.tampermonkey.net)
-2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot/initer.user.js)
-3. (or you can install [bot v2](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js) with more than 20 strategies and some new features, but also with more bugs)
+2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js)
 
 **Usage**<br/>
   Choose coordinates and image.<br/>
@@ -15,20 +14,15 @@ Bot for pixelplanet.fun
   After solving captcha press "B" to continue bot work.
 
 **Detailed instructions**<br/>
-1. **Strategy**
-   * *Random*
-      Just random.
-   * *linear*
-      Paints from top to bottom with lines.
-   * *Center*
-      Circle expanding from the center to the edges.
-   * *Chess*
-      Draws from top to bottom in chess, grid... I think you get the idea.
-1. **Draw clr** (color the bot will paint with)
-   * *All*
-      All colors are used
-   * *Selected*
-      Only the selected color is used
+**Strategy**
+ * *Random*
+    Just random.
+ * *linear*
+    Paints from top to bottom with lines.
+ * *Center*
+    Circle expanding from the center to the edges.
+ * *Chess*
+    Draws from top to bottom in chess, grid... I think you get the idea.
 
 **[Tell me about suggestions or bugs](https://discord.gg/VyfVmD2nhZ)**<br/>
 **[You can also help me with your donation](https://boosty.to/touchedbydarkness)**

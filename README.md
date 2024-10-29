@@ -1,4 +1,4 @@
-Bot for pixelplanet.fun 
+Bot for (pixelplanet.fun )[https://pixelplanet.fun]
 
 **Installation**<br/>
 1. [Download Tampermonkey](https://www.tampermonkey.net)

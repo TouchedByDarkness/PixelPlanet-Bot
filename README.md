@@ -24,5 +24,8 @@ Bot for [pixelplanet.fun](https://pixelplanet.fun)
  * *Chess*
     Draws from top to bottom in chess, grid... I think you get the idea.
 
+**Notes**<br/>
+  * Bot also works for [pixmap.fun](https://pixmap.fun) 
+
 **[Tell me about suggestions or bugs](https://discord.gg/VyfVmD2nhZ)**<br/>
 **[You can also help me with your donation](https://boosty.to/touchedbydarkness)**

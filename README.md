@@ -1,5 +1,5 @@
 
-Bot for [pixelplanet.fun](https://pixelplanet.fun) and [pixmap.fun](https://pixmap.fun).
+Bot for [pixelplanet.fun](https://pixelplanet.fun) and [pixmap.fun](https://pixmap.fun).  
 Maybe also works on [pixelya.fun](https://pixelya.fun), [pixelroyal.fun](https://pixelroyal.fun) and [pixvas.fun](https://pixvas.fun). Not sure about it.
 
 **Installation**  
@@ -7,12 +7,12 @@ Maybe also works on [pixelya.fun](https://pixelya.fun), [pixelroyal.fun](https:/
 2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js)
 
 **Usage**  
-  Choose image.  
-  The colors of the image will be automatically converted if you don't care about it, but better use the site converter.  
-  Press key "N" to set the start coordinates ot type it manually.  
-  Press key "B" to start/stop or press button in bot interface.  
-  If a captcha appears, the bot will notify you with notification and sound.  
-  After solving captcha run bot to continue.  
+ * Choose image.  
+ * The colors of the image will be automatically converted if you don't care about it, but better use the site converter.  
+ * Press key "N" to set the start coordinates ot type it manually.  
+ * Press key "B" to start/stop or press button in bot interface.  
+ * If a captcha appears, the bot will notify you with notification and sound.  
+ * After solving captcha run bot to continue.  
 
 **Strategies**  
  * *human*

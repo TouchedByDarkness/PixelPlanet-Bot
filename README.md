@@ -37,5 +37,5 @@ Maybe also works on [pixelya.fun](https://pixelya.fun), not sure about it.
   * And optional custom theme for some canvases by me.
 
 **[My discord server](https://discord.gg/VyfVmD2nhZ)**  
- There you can tell about bugs, suggestions or find test version with new unstable features.
+ There you can tell about bugs, suggestions or find test version with new unstable features.  
 **[You can also help me with your donation](https://boosty.to/touchedbydarkness)**

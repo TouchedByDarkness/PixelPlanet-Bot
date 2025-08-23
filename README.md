@@ -19,7 +19,7 @@ Maybe also works on [pixelya.fun](https://pixelya.fun), not sure about it.
     Uses logs from one of the canvases to form a pattern.
  * *near*  
     Next pixel is always closest to last placed.
- * *Random*  
+ * *random*  
     Just random.
  * *4 linear strategies*  
     Paints from top to bottom or in another direction, depends on strategy.
@@ -37,5 +37,5 @@ Maybe also works on [pixelya.fun](https://pixelya.fun), not sure about it.
   * And optional custom theme for some canvases by me.
 
 **[My discord server](https://discord.gg/VyfVmD2nhZ)**  
- There you can tell about bugs, suggestions or find test version with new unstable features.  
+ There you can tell about bugs, suggestions, translate interface to new language or find test version with new but unstable features.  
 **[You can also help me with your donation](https://boosty.to/touchedbydarkness)**

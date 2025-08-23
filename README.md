@@ -1,6 +1,6 @@
 
 Bot for [pixelplanet.fun](https://pixelplanet.fun) and [pixmap.fun](https://pixmap.fun).  
-Maybe also works on [pixelya.fun](https://pixelya.fun), [pixelroyal.fun](https://pixelroyal.fun) and [pixvas.fun](https://pixvas.fun). Not sure about it.
+Maybe also works on [pixelya.fun](https://pixelya.fun), not sure about it.
 
 **Installation**  
 1. [Download Tampermonkey](https://www.tampermonkey.net)
@@ -15,19 +15,19 @@ Maybe also works on [pixelya.fun](https://pixelya.fun), [pixelroyal.fun](https:/
  * After solving captcha run bot to continue.  
 
 **Strategies**  
- * *human*
+ * *human*  
     Uses logs from one of the canvases to form a pattern.
- * *near*
+ * *near*  
     Next pixel is always closest to last placed.
- * *Random*
+ * *Random*  
     Just random.
- * *4 linear strategies*
+ * *4 linear strategies*  
     Paints from top to bottom or in another direction, depends on strategy.
- * *2 circle strategies*
+ * *2 circle strategies*  
     Circle expanding from the center to the edges or vice versa.
- * *4 chess strategies*
+ * *4 chess strategies*  
     The drawing pattern resembles a chessboard.
- * *and many other strategies*
+ * *and many other strategies*  
     Really many, about 30-40.
 
 **Notes**  

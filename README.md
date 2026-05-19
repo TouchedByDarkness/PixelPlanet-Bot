@@ -1,41 +1,52 @@
+<p align="center">
+<img src="Assets/banner.png">
+</p>
 
-Bot for [pixelplanet.fun](https://pixelplanet.fun) and [pixmap.fun](https://pixmap.fun).  
-Maybe also works on [pixelya.fun](https://pixelya.fun), not sure about it.
+<p align="center">
+<img src="https://img.shields.io/badge/Test%20Version: 2.28-white?style=for-the-badge&logoColor=black&color=white">
+<img src="https://img.shields.io/badge/-Tampermonkey-white?style=for-the-badge&logo=tampermonkey&logoColor=black&color=white">
+<img src="https://img.shields.io/badge/Main%20Version: 2.27-white?style=for-the-badge&logoColor=black&color=white">
+<a href="https://black-and-red.space"><img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=googlechrome&logoColor=black&color=white"></a>
+<a href="https://discord.com/invite/VyfVmD2nhZ"><img src="https://img.shields.io/badge/Discord Server-white?style=for-the-badge&logo=discord&logoColor=black&color=white"></a>
+<a href="https://pixelplanet.fun"><img src="https://img.shields.io/badge/Pixelplanet Bot-white?style=for-the-badge&logo=globe&logoColor=black&color=white"></a>
+</p>
 
-**Installation**  
-1. [Download Tampermonkey](https://www.tampermonkey.net)
-2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js)
+---
 
-**Usage**  
- * Choose image.  
- * The colors of the image will be automatically converted if you don't care about it, but better use the site converter.  
- * Press key "N" to set the start coordinates ot type it manually.  
- * Press key "B" to start/stop or press button in bot interface.  
- * If a captcha appears, the bot will notify you with notification and sound.  
- * After solving captcha run bot to continue.  
+<p align="center"  style="font-size:20px;">
+Darkbot?
+</p>
 
-**Strategies**  
- * *human*  
-    Uses logs from one of the canvases to form a pattern.
- * *near*  
-    Next pixel is always closest to last placed.
- * *random*  
-    Just random.
- * *4 linear strategies*  
-    Paints from top to bottom or in another direction, depends on strategy.
- * *2 circle strategies*  
-    Circle expanding from the center to the edges or vice versa.
- * *4 chess strategies*  
-    The drawing pattern resembles a chessboard.
- * *and many other strategies*  
-    Really many, about 30-40.
+<p align="center" style="font-size:15px;">
+DarkBot is an advanced bot used on PixelPlanet and its clones to automatically draw selected images for you.
+</p>
 
-**Notes**  
-  * Interface has several translations. In addition to English, the languages include Spanish, Russian, Arabic and Azerbaijani.
-  * There is a tab for screenshots of the game canvas with custom coordinates. No size restrictions, in theory.
-  * Another tab for saving interesting points on the canvas.
-  * And optional custom theme for some canvases by me.
+---
 
-**[My discord server](https://discord.gg/VyfVmD2nhZ)**  
- There you can tell about bugs, suggestions, translate interface to new language or find test version with new but unstable features.  
-**[You can also help me with your donation](https://boosty.to/touchedbydarkness)**
+<p align="center" style="font-size:20px;">
+How to Install?
+</p>
+
+<p align="center"  style="font-size:15px;">
+Install Tampermonkey, enable Developer Mode in your browser’s extensions settings, install the script from the website, then open PixelPlanet or one of its clones and start using it.
+</p>
+
+---
+
+<p align="center" style="font-size:20px;">
+I don't see the Darkbot UI?
+</p>
+
+<p align="center"  style="font-size:15px;">
+First, ensure that Developer Mode is enabled in your browser. If you have enabled Developer Mode and the UI still doesn't appear, try installing the Tampermonkey legacy version or try another browser. İssue still with you join to discord server for help.
+</p>
+
+---
+
+<p align="center" style="font-size:15px;">
+This project is not for sale and may not be used or distributed for commercial purposes.
+</p>
+
+<p align="center" style="font-size:10px;">
+© 2020–2026 DarkBot. All rights reserved.
+</p>

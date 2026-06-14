@@ -18,5 +18,3 @@ Pixeldays Captcha Solver: No need for that.
 
 Notes:
 Skip Protect need refactor.
-
-Darkness & m2_zm • 7.06.2026 15:47

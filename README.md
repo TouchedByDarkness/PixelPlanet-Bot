@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Test%20Version: 2.28-white?style=for-the-badge&logoColor=black&color=white">
+<img src="https://img.shields.io/badge/Test%20Version-white?style=for-the-badge&logoColor=black&color=white">
 <img src="https://img.shields.io/badge/-Tampermonkey-white?style=for-the-badge&logo=tampermonkey&logoColor=black&color=white">
-<img src="https://img.shields.io/badge/Main%20Version: 2.27-white?style=for-the-badge&logoColor=black&color=white">
+<img src="https://img.shields.io/badge/Main%20Version-white?style=for-the-badge&logoColor=black&color=white">
 <a href="https://black-and-red.space"><img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=googlechrome&logoColor=black&color=white"></a>
 <a href="https://discord.com/invite/VyfVmD2nhZ"><img src="https://img.shields.io/badge/Discord Server-white?style=for-the-badge&logo=discord&logoColor=black&color=white"></a>
 <a href="https://pixelplanet.fun"><img src="https://img.shields.io/badge/Pixelplanet Bot-white?style=for-the-badge&logo=globe&logoColor=black&color=white"></a>
